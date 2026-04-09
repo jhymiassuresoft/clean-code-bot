@@ -1,7 +1,7 @@
 # The Clean Code Bot
 
 Python CLI that reads a source file, sends it to **Groq Cloud** for inference, and prints (or writes) a refactored version that emphasizes **object-oriented design**, **SOLID** principles, consistent indentation, and language-appropriate documentation (docstrings, JSDoc, etc.).
-### This code is supposed to be a result of a over engineered promp, and it didn't follow the industry quality standards neither process like planning,  development, testing, requirement refinement 
+#### This code is supposed to be a result of a over engineered promp, and it didn't follow the industry quality standards neither process like planning,  development, testing, requirement refinement 
 
 ## Requirements
 
